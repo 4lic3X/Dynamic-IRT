@@ -23,3 +23,8 @@ ch##_ (e.g., ch01_).
 - Memorization_belief: I expect that this course will require a lot of memorization.
 - Utiltiy_1: What I'm going to learn in this class will be useful in the future.
 - Utility_2: What I'm going to learn in this class will be relevant to my everyday life.
+- pre_classes_1: Which of the following courses have you successfully completed? (Check all that apply)
+- pre_classes_2: Which of the following courses have you successfully completed? (Check all that apply)
+- pre_classes_3: Which of the following courses have you successfully completed? (Check all that apply)
+- pre_math_perform: How well have you done in mathematics courses you have taken in the past?
+- coding_exp: Have you had experience with computer programming before?
